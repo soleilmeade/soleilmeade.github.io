@@ -1,13 +1,21 @@
 .background-dark{
-  background: url("images/pittsburgh.jpg") center center no-repeat;
-  background-color: black;
+  background: url("images/Finished-0041.jpg") 50% 25% no-repeat;
+  background-color: white;
   background-size: cover;
-  min-height:500px;
+  min-height: 500px;
 }
 header{
-  color:white;
-  text-align: center;
+  color:black;
+  font-family: Vincentia;
+  text-align: left;
+  padding-left: 100px;
 }
 .websites{
-  width:80%;
+  width:60%;
+}
+.profile-links a i{
+  color:black;
+}
+.container{
+  line-height: 2.2;
 }
